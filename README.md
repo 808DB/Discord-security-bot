@@ -15,9 +15,9 @@ Aucune configuration nécessaire
 
 ⚙️ Pourquoi lui ?
 Fiable, rapide, discret. Il sécurise ton serveur en temps réel, même si t’es AFK.
-|
-|
-|
+
+
+
 🇬🇧 PhantomGuard — The ultimate anti-raid bot
 ✅ Features:
 
@@ -35,9 +35,9 @@ No setup required, plug-and-play
 
 ⚙️ Why PhantomGuard?
 Fast, lightweight, effective. It protects your server even while you sleep.
-|
-|
-|
+
+
+
 🇯🇵 PhantomGuard — 究極のレイド対策ボット
 ✅ 機能：
 
@@ -55,9 +55,9 @@ Fast, lightweight, effective. It protects your server even while you sleep.
 
 ⚙️ なぜPhantomGuard？
 高速・軽量・確実。あなたが不在でもサーバーを守る。
-|
-|
-|
+
+
+
 🇰🇷 PhantomGuard — 궁극의 레이드 방지 봇
 ✅ 기능:
 
