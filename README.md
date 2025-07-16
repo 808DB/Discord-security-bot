@@ -14,7 +14,7 @@ Scanning en boucle, sans latence
 Aucune configuration nécessaire
 
 ⚙️ Pourquoi lui ?
-Fiable, rapide, discret. Il sécurise ton serveur en temps réel, même si t’es AFK.
+Fiable, rapide, discret. Il sécurise ton serveur en temps réel
 
 
 
